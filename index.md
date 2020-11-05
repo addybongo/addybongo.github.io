@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome!
+# Social Links
 
 [LinkedIn](https://www.linkedin.com/in/adnan-ahmad-79880b171/)
 
