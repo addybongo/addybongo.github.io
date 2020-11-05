@@ -1,3 +1,6 @@
+github:
+  is_project_page: false
+
 theme: jekyll-theme-slate
 title: Adnan's Bio
 description: My personal website
